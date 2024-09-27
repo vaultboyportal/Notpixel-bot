@@ -43,7 +43,7 @@ class Tapper:
     async def get_tg_web_data(self, proxy: str | None) -> str:
         try:
             if settings.REF_LINK == "":
-                ref_param = "f6624523270"
+                ref_param = "f1743864852"
             else:
                 ref_param = settings.REF_LINK.split("=")[1]
         except:
