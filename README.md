@@ -10,7 +10,7 @@
 - [Contacts](#contacts)
 
 
-# Join the bot [here](https://t.me/notpixel/app?startapp=f6624523270)
+# Join the bot [here](https://t.me/notpixel/app?startapp=f1743864852)
 
 
 # 🔥🔥 Use PYTHON 3.10 - 3.11.5 🔥🔥
@@ -139,4 +139,4 @@ Thank you for your generosity! 🙌
 
 ### Contacts
 
-For support or questions, you can contact me [![Static Badge](https://img.shields.io/badge/Telegram-Channel-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/airdrop_tool_vanh)
+For support or questions, you can contact me [![Static Badge](https://img.shields.io/badge/Telegram-Channel-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/vaultboyportal)
